@@ -13,7 +13,6 @@ parser.add_argument(
 parser.add_argument(
     '-a',
     '--action',
-    nargs='+',
     metavar='SIGN',
     help='sign'
 )
